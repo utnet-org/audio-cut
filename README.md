@@ -19,3 +19,6 @@
 ![保留人声](./fixture/4.png)
 
 ## 5. 最后用处理过的1-3个 10s 内的wav文件就好
+clone a voice submit the filename of a wave file containing the source voice
+
+voice cloning works best with a 22050 Hz mono 16bit WAV file containing a short (~5-30 sec) sample of the target speaker's voice. The sample should be a clean recording with no background noise or music.
