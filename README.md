@@ -20,7 +20,7 @@
 
 ## 5. 码率转换
 ![采样率](./fixture/5.png)
-https://www.aconvert.com/cn/audio/
+https://www.audio2edit.com/zh/convert-from-audio
 ## 6. 最后用处理过的1-3个 10s 内的wav文件就好
 clone a voice submit the filename of a wave file containing the source voice
 
